@@ -1,0 +1,11 @@
+# 忽略不相关的文件
+美丽艺术馆.twld
+美丽艺术馆.twld.bak
+美丽艺术馆.wld
+美丽艺术馆.wld.bak2
+双人世界1.twld
+双人世界1.twld.bak
+双人世界1.wld
+双人世界1.wld.bak
+双人世界1.wld.bak2
+*.zip
